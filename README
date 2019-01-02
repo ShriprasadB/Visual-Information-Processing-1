@@ -1,0 +1,12 @@
+go in the folder of respective codes
+in order to execute 1st code
+type 
+make and make run command 
+it will ask for a path of image with name
+give a path of image and it will show histograms
+press any key to contiue and again enter path of the image you want to enhance
+
+in order to execute 2nd code
+type 
+make and make run commands and give the path of the image with name 
+it will show results
